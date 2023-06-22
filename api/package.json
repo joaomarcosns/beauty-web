@@ -25,9 +25,13 @@
     "@nestjs/mapped-types": "*",
     "@nestjs/platform-express": "^9.0.0",
     "@prisma/client": "^4.16.0",
+    "@types/yup": "^0.32.0",
     "nestjs-prisma": "^0.20.1",
     "reflect-metadata": "^0.1.13",
-    "rxjs": "^7.2.0"
+    "rxjs": "^7.2.0",
+    "yup": "^1.2.0",
+    "yup-locale-pt": "^0.0.9",
+    "yup-locales": "^1.2.12"
   },
   "devDependencies": {
     "@nestjs/cli": "^9.0.0",
